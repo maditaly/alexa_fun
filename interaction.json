@@ -1,0 +1,46 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "bourbon glass",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "Makeaglass",
+                    "slots": [],
+                    "samples": [
+                        "should I have a bourbon",
+                        "what is your favorite bourbon",
+                        "what kind of bourbos are there",
+                        "what is available",
+                        "what kind do you have",
+                        "what should i drink",
+                        "Make me a bourbon"
+                    ]
+                },
+                {
+                    "name": "getnewfactintent",
+                    "slots": [],
+                    "samples": [
+                        "what dog cat bird crossfit",
+                        "what do you know",
+                        "tell me a fact about mermaids",
+                        "tell me a fact",
+                        "tell me something"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
